@@ -12,7 +12,9 @@
 ## Test
   Platform: Windows 10 + MicroSoft Edge + Command Prompt
   
-  On Command Prompt, run "node time_server.js 8000" to start a time server to continue listening port 8000
+  On Command Prompt, start a time server to continue listening port 8000 by running this command:
+  
+      node time_server.js 8000
   
   On Edge Browser, paste and go the following 2 links:
   
