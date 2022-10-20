@@ -28,7 +28,12 @@
       listening port: 8000
       
 ## Test
-  Platform: Windows 10 + MicroSoft Edge + Command Prompt + Node.js
+  Enviroment: Windows 10 + MicroSoft Edge + Command Prompt + Node.js
+  
+      Install Node.js on Windows 10
+      Add the following 2 installation paths into  env var PATH.
+      C:\Users\root\AppData\Roaming\npm
+      C:\Program Files\nodejs
   
   On Command Prompt, start a time server to continue listening port 8000 by running this command:
   
