@@ -28,7 +28,7 @@
       listening port: 8000
       
 ## Test
-  Platform: Windows 10 + MicroSoft Edge + Command Prompt
+  Platform: Windows 10 + MicroSoft Edge + Command Prompt + Node.js
   
   On Command Prompt, start a time server to continue listening port 8000 by running this command:
   
