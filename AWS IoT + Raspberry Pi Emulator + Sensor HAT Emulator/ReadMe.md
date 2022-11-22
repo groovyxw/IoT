@@ -26,5 +26,6 @@ Please refer to [VirtualBox + Raspberry Pi emulator + Sense HAT Emulator.pdf](ht
 #### How to Run?
   python3 sensor-pubsub.py
 
-## Presentation
+## Documentation
+
 
