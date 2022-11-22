@@ -7,6 +7,8 @@ Sensor emulator publish temperature data to the AWS IOT platform
 
 Any Sensor subscriber receive temperature data through AWS IOT platform 
 
+
+
 ## PartI: Install Raspberry Pi emulator + VirtualBox + Sense HAT Emulator
 
 It mainly contains two steps:
