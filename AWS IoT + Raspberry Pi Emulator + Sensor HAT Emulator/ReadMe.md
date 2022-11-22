@@ -4,7 +4,6 @@
 Sensor emulator as a sensor publisher collect temperature data
 
 Sensor emulator publish temperature data to the AWS IOT cloud platform
-
 Create a  Sensor subscriber to receive temperature data
 
 ## PartI: Install Raspberry Pi emulator + VirtualBox + Sense HAT Emulator
