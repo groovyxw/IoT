@@ -14,7 +14,7 @@ It mainly contains two steps:
   Install Virtual Box and Install Raspberry Pi OS on VirtualBox
   Run Sensor HAT Emulator
   
-Please refer to [VirtualBox + Raspberry Pi emulator + Sense HAT Emulator.pdf](https://github.com/groovyxw/IoT/blob/main/AWS%20IoT%20%2B%20Raspberry%20Pi%20Emulator%20%2B%20Sensor%20HAT%20Emulator/VirtualBox%20%2B%20Raspberry%20Pi%20emulator%20%2B%20Sense%20HAT%20Emulator.pdf) for details.
+Please refer to Part I in [Raspberry Pi emulator + VirtualBox + Sense HAT Emulator+Application.pdf](https://github.com/groovyxw/IoT/blob/main/AWS%20IoT%20%2B%20Raspberry%20Pi%20Emulator%20%2B%20Sensor%20HAT%20Emulator/Raspberry%20Pi%20emulator%20%2B%20VirtualBox%20%2B%20Sense%20HAT%20Emulator%2BApplication.pdf)
 
 ## PartII: Connecting IoT Devices (Sense HAT Emulator) To AWS IoT Platform
 
@@ -23,8 +23,8 @@ Please refer to [VirtualBox + Raspberry Pi emulator + Sense HAT Emulator.pdf](ht
 #### Implementation
   Please refer to [pubsub.py]() for details
 
-#### Documentation
-[Raspberry Pi emulator + VirtualBox + Sense HAT Emulator+Application.pdf](https://github.com/groovyxw/IoT/blob/main/AWS%20IoT%20%2B%20Raspberry%20Pi%20Emulator%20%2B%20Sensor%20HAT%20Emulator/Raspberry%20Pi%20emulator%20%2B%20VirtualBox%20%2B%20Sense%20HAT%20Emulator%2BApplication.pdf)
+#### How to Run?
+  Please refer to part II in [Raspberry Pi emulator + VirtualBox + Sense HAT Emulator+Application.pdf](https://github.com/groovyxw/IoT/blob/main/AWS%20IoT%20%2B%20Raspberry%20Pi%20Emulator%20%2B%20Sensor%20HAT%20Emulator/Raspberry%20Pi%20emulator%20%2B%20VirtualBox%20%2B%20Sense%20HAT%20Emulator%2BApplication.pdf)
 
 ## Presentation
 [Presentation](https://docs.google.com/presentation/d/1etXIgL8NAgoOj8rBQb7LE9VJPFoSY0qvR7h0KiXh3co/edit?usp=sharing)
