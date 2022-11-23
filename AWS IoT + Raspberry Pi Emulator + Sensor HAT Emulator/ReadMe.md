@@ -28,4 +28,5 @@ Please refer to [VirtualBox + Raspberry Pi emulator + Sense HAT Emulator.pdf](ht
 
 ## Documentation
 [Raspberry Pi emulator + VirtualBox + Sense HAT Emulator+Application.pdf](https://github.com/groovyxw/IoT/blob/main/AWS%20IoT%20%2B%20Raspberry%20Pi%20Emulator%20%2B%20Sensor%20HAT%20Emulator/Raspberry%20Pi%20emulator%20%2B%20VirtualBox%20%2B%20Sense%20HAT%20Emulator%2BApplication.pdf)
+[Presentation](https://docs.google.com/presentation/d/1etXIgL8NAgoOj8rBQb7LE9VJPFoSY0qvR7h0KiXh3co/edit?usp=sharing)
 
