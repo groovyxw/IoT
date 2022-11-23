@@ -21,7 +21,7 @@ Please refer to [VirtualBox + Raspberry Pi emulator + Sense HAT Emulator.pdf](ht
 #### Walk through "AWS IOT Connect one device"
   Create a thing, certificate, policy and attach them with each other together
 #### Implementation
-  Please refer to [sensor-pubsub.py]() for details
+  Please refer to [pubsub.py]() for details
 
 #### How to Run?
   python3 sensor-pubsub.py
