@@ -9,7 +9,7 @@ Then, we send this sensor data to AWS Machine Learning to get a decision on whet
 The project will focus on developing a machine learning model and make a decision system to trigger watering.
 
 ## Implementation
-Main steps:
+#### Main steps:
 
   Defining a machine learning model
 
@@ -20,7 +20,7 @@ Main steps:
   Evaluating and testing a model
 
 
-## Platform:
+#### Platform:
 
 Amazon AWS SageMaker Canvas
     
