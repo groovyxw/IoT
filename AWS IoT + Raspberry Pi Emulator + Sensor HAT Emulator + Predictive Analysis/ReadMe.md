@@ -22,4 +22,4 @@ Evaluating and testing a model
 ## How to Run?
 Amazon AWS SageMaker Canvas
 
-Please refer to this documentation [SageMakerCanvas_PredictiveAnalysis.pdf]() for all details.
+Please refer to this documentation [SageMakerCanvas_PredictiveAnalysis.pdf](https://github.com/groovyxw/IoT/blob/main/AWS%20IoT%20%2B%20Raspberry%20Pi%20Emulator%20%2B%20Sensor%20HAT%20Emulator%20%2B%20Predictive%20Analysis/SageMakerCanvas_PredictiveAnalysis.pdf) for all details.
